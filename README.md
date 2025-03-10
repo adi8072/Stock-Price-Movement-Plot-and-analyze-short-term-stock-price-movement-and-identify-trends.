@@ -1,0 +1,2 @@
+# Stock-Price-Movement-Plot-and-analyze-short-term-stock-price-movement-and-identify-trends.
+Stock Price Movement Analysis is a crucial technique used in financial markets to understand stock trends and make informed investment decisions. This project involves fetching historical stock data using the Yahoo Finance API, visualizing price movements, and identifying trends through moving averages (short-term and long-term).
